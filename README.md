@@ -6,4 +6,6 @@ Printf function recoded, with limited specifiers and flags. Learn how to use var
 
 ### 💻 How to Run
 
+```command
 make
+```
